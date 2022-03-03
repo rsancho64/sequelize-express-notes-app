@@ -1,11 +1,15 @@
+# en traduccion
 # Using Sequelize ORM with Node.js and Express 
+# El ORM Sequelize ORM con Node.js & Express 
 
-Recipe form [**here**](https://stackabuse.com/using-sequelize-orm-with-nodejs-and-express/)
-Code on [**GitHub**](https://github.com/StackAbuse/sequelize-express-notes-app)
+Receta de [**here**](https://stackabuse.com/using-sequelize-orm-with-nodejs-and-express/)
+Codigo original en [**GitHub**](https://github.com/StackAbuse/sequelize-express-notes-app)
 
-### Introduction
+### Intro
 
-[Sequelize](https://github.com/sequelize/sequelize/) is a popular ORM created for Node.js, and in this tutorial we'll be using it to build a CRUD API to manage notes.
+[Sequelize](https://github.com/sequelize/sequelize/) es un ORM popular sobre Node.js, y en este tutorial lo aplicamos a un API CRUD API para manejar notas.
+
+@@@@@
 
 Interacting with databases is a common task for backend applications. This was typically done via raw SQL queries, which can be difficult to construct, especially for those new to SQL or databases in general.
 
